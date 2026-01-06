@@ -1,4 +1,4 @@
-# Agenda de contatos em Python: "Este é um sitema simples via linha de comando, feito para gerenciar contatos, permitindo criar, listar, editar, excluir e favoritar informações.""
+# Agenda de contatos em Python: "Este é um sitema simples via linha de comando, feito para gerenciar contatos, permitindo criar, listar, editar, excluir e favoritar informações."
 
 ## 2- Funcionalizades do Sistema:
 * Salvar contatos (Nome, telefone);
